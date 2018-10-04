@@ -12,6 +12,9 @@
   }
     
     utils.removeWhitespace = string => {
+      if (typeof string !== 'string') {
+        throw new TypeError(`String is expected, got ${typeof string}`);
+      }
       return string.replace(/\s/g,'');
     }
     
