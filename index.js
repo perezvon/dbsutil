@@ -2,8 +2,8 @@
   function() {
     let utils = {};
     
-    utils.removeWhitespace = () => {
-      return this.replace(/\s/g,'');
+    utils.removeWhitespace = string => {
+      return string.replace(/\s/g,'');
     }
     
     utils.slugify = string => {

@@ -10,7 +10,9 @@ A bunch of helper utilities that probably exist elsewhere, but also exist here.
 
 `import dbsutil from 'dbsutil';`
 
-### String.removeWhitespace
+## Utilities
+
+### removeWhitespace
 
 Removes all white space from a string. 
 
