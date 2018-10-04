@@ -15,7 +15,7 @@ A bunch of helper utilities that probably exist elsewhere, but also exist here.
 
 ## Usage 
 
-`import dbsutil from 'dbsutil';`
+`import utils from 'dbsutil';`
 
 ## Utilities
 
