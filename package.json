@@ -1,12 +1,12 @@
 {
-"name": "@distantbluesoftware/dbsutil",
-"version": "1.0.0",
-"description": "Utility function library",
-"license": "MIT",
-"repository": "perezvon/dbsutil",
-"main": "index.js",
-"keywords": [
-  "utilities",
-  "helpers"
-]
+  "name": "@distantbluesoftware/dbsutil",
+  "version": "1.1.0",
+  "description": "Utility function library",
+  "license": "MIT",
+  "repository": "perezvon/dbsutil",
+  "main": "index.js",
+  "keywords": [
+    "utilities",
+    "helpers"
+  ]
 }
