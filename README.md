@@ -1,5 +1,12 @@
 # @distantbluesoftware/dbsutil
 
+
+[![GitHub version](https://img.shields.io/npm/v/@distantbluesoftware/dbsutil.svg)](https://github.com/perezvon/dbsutil/issues)
+[![GitHub license](https://img.shields.io/github/license/perezvon/dbsutil.svg)](https://github.com/perezvon/dbsutil)
+[![GitHub issues](https://img.shields.io/github/issues/perezvon/dbsutil.svg)](https://github.com/perezvon/dbsutil/issues)
+
+
+
 A bunch of helper utilities that probably exist elsewhere, but also exist here. 
 
 ## Install
