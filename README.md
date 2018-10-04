@@ -19,6 +19,18 @@ A bunch of helper utilities that probably exist elsewhere, but also exist here.
 
 ## Utilities
 
+### slugify 
+
+Turns a string into a slug; useful for generating URLs.
+
+### iterator
+
+Also slug-related: if there is already an existing slug, the iterator adds a digit to the end of it.
+
+### pad
+
+Pads out a number to a certain amount of leading zeroes.
+
 ### removeWhitespace
 
 Removes all white space from a string. 
