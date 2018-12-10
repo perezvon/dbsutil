@@ -11,6 +11,14 @@
       root.utils = utils;
     }
     
+    utils.isEmpty = obj => {
+      for(var key in obj) {
+        if(obj.hasOwnProperty(key))
+          return false;
+      }
+      return true;
+    }
+    
     utils.removeWhitespace = string => {
       if (typeof string !== 'string') {
         throw new TypeError(`String is expected, got ${typeof string}`);
